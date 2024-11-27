@@ -1,0 +1,295 @@
+{
+  "basics": {
+    "name": "Alberto Recio",
+    "label": "Programador freelance Girona y Barcelona | Frontend, Accesibilidad, Rendimiento Web, Maquetación, Figma, Diseño, UX/UI",
+    "image": "https://avatars.githubusercontent.com/u/79002251",
+    "email": "alberto@albertorecio.com",
+    "phone": "+34 622445581",
+    "url": "https://www.albertorecio.com",
+    "summary": "Desarrollador freelance Full-Stack con +6 años de experiencia como desarrollador web centrado en Frontend, Accesibilidad, Web Performance, CSS, SVG, JavaScript y React. Vivo en Girona, España. He trabajado en diferentes entornos: desde pequeñas agencias hasta desarrollando productos internos.",
+    "location": {
+      "address": "Girona",
+      "postalCode": "17007",
+      "city": "Girona",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "albertoreciodev",
+        "url": "https://github.com/albertoreciodev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Alberto Recio",
+        "url": "https://linkedin.com/in/albertorecio"
+      },
+      {
+        "network": "X",
+        "username": "albertoreciodev",
+        "url": "https://x.com/albertoreciodev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Alberto Recio",
+      "position": "Programador Freelance",
+      "url": "https://www.albertorecio.com",
+      "startDate": "2024-11-01",
+      "endDate": null,
+      "summary": "Desarrollador freelance Full-Stack especializado en Frontend, Diseño UX/UI, Accesibilidad, Web Performance, CSS, SVG, JavaScript y React.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Avantiam",
+      "position": "Fullstack developer",
+      "url": "https://avantiam.com/",
+      "startDate": "2024-10-29",
+      "endDate": "2024-06-25",
+      "summary": "Actualizaciones y mejoras de funcionalidades de los diferentes proyectos en el departamento de mantenimientos y Outsourcing (PHP, Laravel, Yii, MySQL, HTML5, CSS3, JavaScript, GIT).",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "IREP Spain",
+      "position": "Front-end developer / System Administrator",
+      "url": "https://irepartners.es/",
+      "startDate": "2024-05-02",
+      "endDate": "2023-07-13",
+      "summary": "Desarrollo nuevos módulos y mantenimiento del software interno para la filial de EE. UU. (React, NextJS, SQL, MUI, HTML5, CSS3, GIT, Figma).",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Kounsoft Development",
+      "position": "Fullstack developer",
+      "url": "https://www.kounsoft.com/es",
+      "startDate": "2023-07-19",
+      "endDate": "2021-11-08",
+      "summary": "Desarrollando nuevas funcionalidades personalizadas y mantenimientos para los diferentes clientes de la aplicación propia ERP, tanto de la parte del back-end como en el front-end. (Delphi, SQL Server, HTML5, CSS3, JavaScript, GIT).",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Gabinet Disseny Gràfic",
+      "position": "Front-end developer / Project Manager",
+      "url": "https://www.gdg.cat/es/",
+      "startDate": "2014-12-17",
+      "endDate": "2021-08-20",
+      "summary": "A partir del diseño, desarrollando nuevas funcionalidades o modificaciones de las páginas web de los clientes, creando campañas de email marketing con Mailchimp, animación de postales de navidad, asistencia tècnica help desk de correos y servidores. Durante los tres últimos años, he realizado funciones y tareas de Project Manager de los diferentes proyectos web. (HTML5, CSS3, JavaScript, PHP, MYSQL, Wordpress, Illustrator).",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lemoncode",
+      "url": "https://lemoncode.net/master-frontend#master-frontend/inicio",
+      "area": "",
+      "studyType": "Master Frontend",
+      "startDate": "2024-04-25",
+      "endDate": "2025-03-14",
+      "score": "4.0",
+      "courses": [
+        "UX/UI, Figma, HTML, CSS, Javascript, Typescript, React, Angular, Vuejs, TDD, Jest, GraphQL, Webpack, API Rest, Docker, Azure,"
+      ]
+    },
+    {
+      "institution": "Digital Dreams Films (DDF)",
+      "url": "https://www.filmaffinity.com/es/name.php?name-id=773083680",
+      "area": "",
+      "studyType": "Master Autodek Maya 3D Training y Master Dinámicas & FX",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": ["3D, VFX, Animación"]
+    },
+    {
+      "institution": "IES-SEP Montilivi",
+      "url": "https://www.institutmontilivi.cat/",
+      "area": "",
+      "studyType": "FPII Administración de Sistemas Informáticos (ASI)",
+      "startDate": "2004-06-01",
+      "endDate": "2004-08-01",
+      "score": "4.0",
+      "courses": ["Tecnológico"]
+    },
+    {
+      "institution": "Institut Frederic Martí i Carreres",
+      "url": "https://agora.xtec.cat/iesfredericmarti/",
+      "area": "",
+      "studyType": "Bachillerato",
+      "startDate": "2002-06-01",
+      "endDate": "1999-08-01",
+      "score": "4.0",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Fisio d'Aro",
+      "isActive": false,
+      "description": "Desarrollo de la pagina web junto al SEO del centro de Fisioterapia en Santa Cristina de Aro",
+      "highlights": ["Diseño web", "Desarrollo web", "SEO"],
+      "url": "https://www.fisiodaro.com"
+    },
+    {
+      "name": "Car by Car",
+      "isActive": false,
+      "description": "Diseño UX/UI con desarrollo web y mobile del marketplace de movilidad en entornos urbanos enfocado en Girona",
+      "highlights": [
+        "UI/UI",
+        "Diseño APP",
+        "API Rest",
+        "JavaScript & TypeScript",
+        "React",
+        "React Native"
+      ],
+      "url": "https://www.carbycar.cat/"
+    }
+  ]
+}
