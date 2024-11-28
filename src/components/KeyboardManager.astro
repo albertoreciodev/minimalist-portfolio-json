@@ -77,15 +77,27 @@ const profilesInfo = profiles.map(({ network, url }) => {
   hideBreadcrumbs></ninja-keys>
 
 <script>
+  interface Info {
+    id: string;
+    section: string;
+    title: string;
+    url?: string;
+    icon: string;
+    hotkey: string;
+    handler?: () => void;
+  }
   import "ninja-keys";
 
-  const ninja = document.querySelector("ninja-keys");
+  interface NinjaKeysElement extends HTMLElement {
+    data: Info[];
+  }
+  const ninja = document.querySelector<NinjaKeysElement>("ninja-keys");
 
   if (ninja !== null) {
     const info = ninja.getAttribute("data-info") || "[]";
-    const parsedInfo = JSON.parse(info);
+    const parsedInfo = JSON.parse(info) as Info[];
 
-    const data = parsedInfo.map((item: any) => {
+    const data = parsedInfo.map((item) => {
       return {
         ...item,
         handler: () => {
