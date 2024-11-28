@@ -152,15 +152,19 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join("&bull;");
       color: #000;
       border: 1px solid #ccc;
     }
-    /*
-    
-hsl(var(--accent-foreground))
-hsl(var(--accent))
-*/
 
-    @media print {
-      .no-print {
-        display: none;
+    @media (width <= 700px) {
+      .info {
+        padding-right: 20px;
+      }
+
+      img {
+        width: 108px;
+        margin-bottom: 46px;
+      }
+
+      h1 {
+        font-size: 1.7rem;
       }
     }
     .print {
@@ -170,7 +174,12 @@ hsl(var(--accent))
     @media print {
       .print {
         display: block;
+        /* text-wrap - ONLY WORKS IN CHROME, NOT IN SAFARI AND FIREFOX NOVEMBER 28TH, 2024 */
         text-wrap: pretty;
+      }
+
+      .no-print {
+        display: none;
       }
     }
   </style>
