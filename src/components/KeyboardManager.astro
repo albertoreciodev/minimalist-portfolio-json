@@ -68,7 +68,10 @@ const profilesInfo = profiles.map(({ network, url }) => {
 ---
 
 <footer class="no-print">
-  Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
+  <p>
+    Pulsa <span>Cmd <Apple /></span> + K o <span>Ctrl <Windows /></span> para abrir
+    la paleta de comandos.
+  </p>
 </footer>
 
 <ninja-keys
@@ -160,10 +163,31 @@ const profilesInfo = profiles.map(({ network, url }) => {
     animation-range: entry 100% cover 10%;
   }
 
+  footer p {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    color: #000;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  footer p span {
+    border-radius: 6px;
+    display: flex;
+    align-items: self-start;
+    background: #eee;
+    color: #000;
+    font-size: 1rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+
   kbd {
     background: #eee;
     border-radius: 4px;
     padding: 2px 4px;
-    font-size: 12px;
+    font-size: 20px;
   }
 </style>
