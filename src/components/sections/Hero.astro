@@ -51,6 +51,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" · ");
           )
         }
         {
+          /*
           phone && (
             <a
               href={`tel:${phone}`}
@@ -60,6 +61,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" · ");
               <Phone />
             </a>
           )
+            */
         }
         {
           profiles.map(({ network, username, url }) => {
