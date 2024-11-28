@@ -275,7 +275,8 @@
       "isActive": false,
       "description": "Desarrollo de la pagina web junto al SEO del centro de Fisioterapia en Santa Cristina de Aro",
       "highlights": ["UX/UI", "Diseño web", "Desarrollo web", "SEO"],
-      "url": "https://www.fisiodaro.com"
+      "url": "https://www.fisiodaro.com",
+      "github": ""
     },
     {
       "name": "Car by Car",
@@ -291,7 +292,8 @@
         "React",
         "React Native"
       ],
-      "url": "https://www.carbycar.cat/"
+      "url": "https://www.carbycar.cat/",
+      "github": ""
     }
   ]
 }
