@@ -274,7 +274,7 @@
       "name": "Fisio d'Aro",
       "isActive": false,
       "description": "Desarrollo de la pagina web junto al SEO del centro de Fisioterapia en Santa Cristina de Aro",
-      "highlights": ["Diseño web", "Desarrollo web", "SEO"],
+      "highlights": ["UX/UI", "Diseño web", "Desarrollo web", "SEO"],
       "url": "https://www.fisiodaro.com"
     },
     {
@@ -282,8 +282,10 @@
       "isActive": false,
       "description": "Diseño UX/UI con desarrollo web y mobile del marketplace de movilidad en entornos urbanos enfocado en Girona",
       "highlights": [
-        "UI/UI",
+        "UX/UI",
         "Diseño APP",
+        "Diseño web",
+        "Desarrollo web",
         "API Rest",
         "JavaScript & TypeScript",
         "React",
