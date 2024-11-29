@@ -155,20 +155,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" · ");
       border: 1px solid #ccc;
     }
 
-    @media (width <= 700px) {
-      .info {
-        padding-right: 20px;
-      }
-
-      img {
-        width: 108px;
-        margin-bottom: 46px;
-      }
-
-      h1 {
-        font-size: 1.7rem;
-      }
-    }
     .print {
       display: none;
     }
@@ -182,6 +168,35 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" · ");
 
       .no-print {
         display: none;
+      }
+    }
+
+    @media (width <= 600px) {
+      .container {
+        flex-direction: column-reverse;
+      }
+
+      .info {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-right: 0px;
+      }
+
+      figure {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+      }
+
+      h1 {
+        font-size: 1.7rem;
+      }
+
+      h2 {
+        text-wrap: balance;
+        font-size: 1.1rem;
       }
     }
   </style>
