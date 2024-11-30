@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Alberto Recio",
-    "label": "Programador freelance Girona y Barcelona | Frontend, Accesibilidad, Rendimiento Web, Maquetación, Figma, Diseño, UX/UI",
+    "label": "Programador freelance Wordpress en Girona y Barcelona | Frontend, Accesibilidad, Rendimiento Web, Maquetación, Figma, Diseño web y app, UX/UI",
     "image": "/photo_Alberto_Recio.webp",
     "email": "alberto@albertorecio.com",
     "phone": "+34 622445581",
     "url": "https://www.albertorecio.com",
-    "summary": "Desarrollador freelance Full-Stack con +6 años de experiencia como desarrollador web centrado en Frontend, Accesibilidad, Web Performance, CSS, SVG, JavaScript y React. Vivo en Girona, España. He trabajado en diferentes entornos: desde pequeñas agencias hasta desarrollando productos internos.",
+    "summary": "Desarrollador freelance Full-Stack con +6 años de experiencia como desarrollador web centrado en Frontend, Accesibilidad, Web Performance, CSS, SVG, JavaScript, React, React Native (APP) y Wordpress. Vivo en Girona, España. He trabajado en diferentes entornos: desde pequeñas agencias hasta desarrollando productos internos.",
     "location": {
       "address": "Girona",
       "postalCode": "17007",
@@ -39,7 +39,7 @@
       "url": "https://www.albertorecio.com",
       "startDate": "2024-11-01",
       "endDate": null,
-      "summary": "Desarrollador freelance Full-Stack especializado en Frontend, Diseño UX/UI, Accesibilidad, Web Performance, CSS, SVG, JavaScript y React.",
+      "summary": "Desarrollador freelance Full-Stack especializado en Frontend, Diseño UX/UI, Accesibilidad, Web Performance, CSS, SVG, JavaScript, React, React Native (APP) y Wordpress.",
       "highlights": ["Started the company"]
     },
     {
